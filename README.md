@@ -1,1 +1,42 @@
-# haotonghan.github.io
+# Welcome to My Personal Website
+
+## About Me
+Hi, I'm **[Your Name]**, a passionate [Your Profession]. I love working on [your interests, e.g. web development, open-source projects, AI, etc.]. I use this space to showcase my work, share ideas, and connect with others.
+
+---
+
+## Projects
+
+### 1. [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+### 2. [Another Project](https://github.com/yourusername/project-repo)
+*Description*: Explain the motivation behind this project and any particular challenges or learning points.
+
+Feel free to browse through my [GitHub repositories](https://github.com/yourusername) to see more of my work!
+
+---
+
+## Blog Posts (Optional)
+- [Title of Blog Post 1](https://link-to-blog-post.com)
+- [Title of Blog Post 2](https://link-to-blog-post.com)
+
+---
+
+## Contact
+I'm always open to collaborations, new ideas, or interesting opportunities. You can reach me at:
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- **Twitter**: [Your Twitter](https://twitter.com/yourusername)
+
+---
+
+## Skills (Optional)
+- **Languages**: JavaScript, Python, C++
+- **Technologies**: React, Node.js, Django
+- **Tools**: Git, Docker, Jenkins
+
+---
+
+### Thank you for visiting!
+I hope you enjoy learning more about me and my projects. Feel free to connect!
