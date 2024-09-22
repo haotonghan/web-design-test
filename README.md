@@ -2,7 +2,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+
+  h1, h2, h3 {
+    text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    body {
+      font-size: 14px;
+    }
+  }
+</style>
+
+<div class="container">
+  
 # Welcome to My Personal Website
+
 
 ## About Me
 Hi! My name is Haotong. I am currently a MS student at Stanford University and have recevied a BS degree from UCSB, both in mechanical enginnering. My concentration is in mechatronics, robotics, and smart product design. Throughout my education, I have participated in various enginnering projects, making me an experienced enginner, a creative innovator, and an active team player.
