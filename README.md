@@ -2,9 +2,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-# Include the custom CSS file
-include: [assets/custom.css]
-
 # Welcome to My Personal Website
 
 
