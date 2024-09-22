@@ -6,7 +6,7 @@ Hi! My name is Haotong. I am currently a MS student at Stanford University and h
 
 ## Projects
 
-### [Stair_robot](https://github.com/haotonghan.github.io/stair_robot/index.md)
+### [Stair_robot](stair_robot/index.md)
 *Description*: A brief description of what the project is, the technologies used, and the goal it solves.
 
 ### [Project Name](https://github.com/yourusername/project-repo)
