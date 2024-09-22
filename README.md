@@ -1,5 +1,5 @@
 # Welcome to My Personal Website
-theme: jekyll-theme-modernist
+
 ## About Me
 Hi! My name is Haotong. I am currently a MS student at Stanford University and have recevied a BS degree from UCSB, both in mechanical enginnering. My concentration is in mechatronics, robotics, and smart product design. Throughout my education, I have participated in various enginnering projects, making me an experienced enginner, a creative innovator, and an active team player.
 ---
