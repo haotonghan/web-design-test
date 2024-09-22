@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="assets/styles.css">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 
 # Welcome to My Personal Website
 
