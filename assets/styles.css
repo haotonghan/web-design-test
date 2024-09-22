@@ -1,33 +1,16 @@
+/* Make the main content area wider */
+.content {
+  max-width: 1200px; /* Increase this value to make it even wider */
+  width: 90%; /* Set the content width to 90% of the screen */
+  margin: 0 auto; /* Center the content */
+}
+
+/* If you want the sidebar to also be a bit smaller, you can adjust this */
+.sidebar {
+  width: 200px; /* Adjust the width of the sidebar if necessary */
+}
+
+/* Optional: Adjust the font size */
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-}
-
-.container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 0 15px;
-}
-
-h1, h2, h3 {
-  text-align: center;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-@media (max-width: 768px) {
-  body {
-    font-size: 16px;
-  }
-}
-
-@media (max-width: 480px) {
-  body {
-    font-size: 14px;
-  }
+  font-size: 18px; /* Increase or decrease this value as needed */
 }
