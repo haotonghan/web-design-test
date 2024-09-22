@@ -1,8 +1,7 @@
 # Welcome to My Personal Website
 
 ## About Me
-Hi, I'm **[Your Name]**, a passionate [Your Profession]. I love working on [your interests, e.g. web development, open-source projects, AI, etc.]. I use this space to showcase my work, share ideas, and connect with others.
-
+Hi! My name is Haotong. I am currently a MS student at Stanford University and have recevied a BS degree from UCSB, both in mechanical enginnering. My concentration is in mechatronics, robotics, and smart product design. Throughout my education, I have participated in various enginnering projects, making me an experienced enginner, a creative innovator, and an active team player.
 ---
 
 ## Projects
