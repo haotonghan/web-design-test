@@ -6,11 +6,25 @@ Hi! My name is Haotong. I am currently a MS student at Stanford University and h
 
 ## Projects
 
-### 1. [Project Name](https://github.com/yourusername/project-repo)
+### [Project Name](https://github.com/haotonghan/haotonghan.github.io/stair_robot)
 *Description*: A brief description of what the project is, the technologies used, and the goal it solves.
 
-### 2. [Another Project](https://github.com/yourusername/project-repo)
-*Description*: Explain the motivation behind this project and any particular challenges or learning points.
+### [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+### [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+### [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+### [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+### [Project Name](https://github.com/yourusername/project-repo)
+*Description*: A brief description of what the project is, the technologies used, and the goal it solves.
+
+
 
 Feel free to browse through my [GitHub repositories](https://github.com/yourusername) to see more of my work!
 
